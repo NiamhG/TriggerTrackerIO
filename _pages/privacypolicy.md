@@ -3,7 +3,6 @@ layout: page
 title: Privacy Policy
 include_in_header: false
 ---
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 # Privacy Policy
 <br>
