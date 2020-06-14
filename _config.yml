@@ -2,7 +2,7 @@
 page_title                                : Trigger Tracker                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                :                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -34,10 +34,22 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : TODO
-    description                           : TODO Features
-    fontawesome_icon_name                 : mobile
+  - title                                 : Track
+    description                           : Track your environment quickly with an easy to use UI
+    fontawesome_icon_name                 : edit
 
+
+  - title                                 : Top Triggers
+    description                           : Get a prediction of what the top triggers could be for your condition
+    fontawesome_icon_name                 : list
+
+  - title                                 : Chart
+    description                           : View and compare your entries as an easy to view chart
+    fontawesome_icon_name                 : chart-bar
+
+  - title                                 : Export
+    description                           : Export your data as a CSV to share with a medical professional or to analyse yourself
+    fontawesome_icon_name                 : stream
 
 
 # Theme Settings
