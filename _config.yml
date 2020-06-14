@@ -51,8 +51,12 @@ features                                  :
     fontawesome_icon_name                 : stream
 
   - title                                 : User Experience
-    description                           : With a focus on user experience, entering your
-    fontawesome_icon_name                 : stream
+    description                           : With a focus on user experience, recording your triggers is fast and painless
+    fontawesome_icon_name                 : users
+
+  - title                                 : Feedback
+    description                           : Feedback and suggestions are encouraged, and will be implemented quickly
+    fontawesome_icon_name                 : comments
 
 
 
