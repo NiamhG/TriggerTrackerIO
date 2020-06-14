@@ -4,9 +4,6 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-# Privacy Policy
-<br>
-
 # PRIVACY POLICY
 Last updated June 14, 2020
 
