@@ -35,9 +35,8 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Track
-    description                           : Track your environment quickly with an easy to use UI
+    description                           : Track everything about your environment daily
     fontawesome_icon_name                 : edit
-
 
   - title                                 : Top Triggers
     description                           : Get a prediction of what the top triggers could be for your condition
@@ -51,6 +50,12 @@ features                                  :
     description                           : Export your data as a CSV to share with a medical professional or to analyse yourself
     fontawesome_icon_name                 : stream
 
+  - title                                 : User Experience
+    description                           : With a focus on user experience, entering your
+    fontawesome_icon_name                 : stream
+
+
+
 
 # Theme Settings
 topbar_color                              : "#ffffff"
@@ -63,7 +68,7 @@ cover_overlay_transparency                : 1.0
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#ffffff"
+body_background_color                     : "#e6e6e6"
 
 link_color                                : "#1d63ea"
 
