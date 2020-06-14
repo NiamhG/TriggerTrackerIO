@@ -21,7 +21,7 @@ YOU MUST NEVER RELY ON ANY INFORMATION OBTAINED USING THIS APP FOR ANY DIAGNOSIS
 YOU MUST NEVER DISREGARD PROFESSIONAL MEDICAL ADVICE OR DELAY SEEKING MEDICAL TREATMENT AS RESULT OF ANY INFORMATION YOU HAVE SEEN ON OR ACCESSED THROUGH THIS APP. IF YOU HAVE ANY SPECIFIC QUESTIONS ABOUT ANY MEDICAL MATTER YOU SHOULD CONSULT YOUR PHYSICIAN OR OTHER PROFESSIONAL HEALTHCARE PROVIDER. IF YOU THINK YOU MAY BE SUFFERING FROM ANY MEDICAL CONDITION YOU SHOULD SEEK IMMEDIATE MEDICAL ATTENTION.
 
 #### No Warranty
-The information provided by this App is provided “as is” without any representations or warranties, express or implied. trigger Tracker makes no representations or warranties in relation to the medical or other information in this App.
+The information provided by this App is provided “as is” without any representations or warranties, express or implied. Trigger Tracker makes no representations or warranties in relation to the medical or other information in this App.
 
 #### Trigger Tracker does not warrant that:
 - The information provided by this App will be constantly available, or available at all;
