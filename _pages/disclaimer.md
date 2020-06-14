@@ -1,3 +1,9 @@
+---
+layout: page
+title: Disclaimer
+include_in_header: false
+---
+
 # Disclaimer
 Last updated June 14, 2020
 
