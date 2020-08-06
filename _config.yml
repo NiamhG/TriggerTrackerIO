@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : /assets/icon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Trigger Tracker                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free*                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Track your environment to help find your condition's triggers.
+app_description                           : Track your environment to help find what could be making your condition better or worse
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -38,8 +38,8 @@ features                                  :
     description                           : Track everything about your environment daily
     fontawesome_icon_name                 : edit
 
-  - title                                 : Top Triggers
-    description                           : Get a prediction of what the top triggers could be for your condition
+  - title                                 : Top Triggers and Relievers
+    description                           : Get a prediction of what the top triggers and relievers could be for your condition
     fontawesome_icon_name                 : list
 
   - title                                 : Chart
@@ -53,6 +53,10 @@ features                                  :
   - title                                 : User Experience
     description                           : With a focus on a sleek user experience, recording your environment is fast and enjoyable
     fontawesome_icon_name                 : users
+
+  - title                                 : Customisable
+    description                           : Create your own conditions and triggers according to what you want to track
+    fontawesome_icon_name                 : plus
 
   - title                                 : Feedback
     description                           : As a passion project, feedback and suggestions are always welcome!
