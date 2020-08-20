@@ -6,6 +6,12 @@ include_in_header: true
 
 # What's New
 
+## **Version 0.5.0**
+- Added top triggers and relievers
+- Removed individual page per question when entering a trigger/condition
+- Added more loading indicators
+- Update the welcome slider
+
 ## **Version 0.4.0**
 
 - Added ability to set the active conditions and triggers
