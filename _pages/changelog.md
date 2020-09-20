@@ -6,6 +6,15 @@ include_in_header: true
 
 # What's New
 
+## **Version 0.6.0**
+- Add icon for notifications
+- Add in app purchases
+- Add a couple animations
+- Improve some designs
+- Added some error handling
+- Bug fixes
+
+
 ## **Version 0.5.0**
 - Added top triggers and relievers
 - Removed individual page per question when entering a trigger/condition
