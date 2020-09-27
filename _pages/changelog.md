@@ -6,6 +6,10 @@ include_in_header: true
 
 # What's New
 
+## **Version 1.0.0**
+- FULL RELEASE!
+- Bug fixes
+
 ## **Version 0.6.0**
 - Add icon for notifications
 - Add in app purchases
